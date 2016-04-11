@@ -1,5 +1,8 @@
 # Yii 2 Starter Kit
 
+#NOTICE
+国内环境访问fonts.googleapis.com会很慢，甚至无响应，需要把adminlte中，涉及到此处都进行替换http://fonts.useso.com，国内的地址，这样访问速度大大提高！
+
 <!-- BADGES/ -->
 
 [![Packagist](https://img.shields.io/packagist/v/trntv/yii2-starter-kit.svg)](https://packagist.org/packages/trntv/yii2-starter-kit)
@@ -17,8 +20,6 @@ It was created and developing as a fast start for building an advanced sites bas
 It covers typical use cases for a new project and will help you not to waste your time doing the same work in every project
 
 ## Before you start
-
-NOTICE:国内环境访问fonts.googleapis.com会很慢，甚至无响应，需要把adminlte中，涉及到此处都进行替换http://fonts.useso.com，国内的地址，这样访问速度大大提高！
 
 Please, consider helping project via [contributions](https://github.com/trntv/yii2-starter-kit/issues) or [donations](#donations). 
 
