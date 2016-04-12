@@ -2,6 +2,8 @@
 
 #NOTICE
 国内环境访问fonts.googleapis.com会很慢，甚至无响应，需要把adminlte中，涉及到此处都进行替换http://fonts.useso.com，国内的地址，这样访问速度大大提高！
+安装redis 
+php composer.phar require --prefer-dist yiisoft/yii2-redis
 
 <!-- BADGES/ -->
 
